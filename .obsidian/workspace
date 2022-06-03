@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "42840d352e4e6269",
+    "type": "split",
+    "children": [
+      {
+        "id": "f96e638ccc648e5d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2570d5d6b244d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3613c258e6561bf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d082bc48f31e15b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fa62f6a68259078",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec370cfc37061600",
+    "type": "split",
+    "children": [
+      {
+        "id": "849325a425af9cd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adcff6c8dd4ec44c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f96e638ccc648e5d",
+  "lastOpenFiles": [
+    "Box template/privesc_methodology🪂.md",
+    "Methodologies/linux_privesc_mindmap.png",
+    "Methodologies/ExTr_methodology🚁.md",
+    "README.md",
+    "troubleshooting.md",
+    "Methodologies/webapp_testing_methodology🌐.md",
+    "Methodologies/recon_enum_methodology🛰.md",
+    "Methodologies/privesc_methodology🪂.md",
+    "Methodologies/post_exploitation🛠.md",
+    "Box template slim/privesc_methodology🪂.md"
+  ]
+}
